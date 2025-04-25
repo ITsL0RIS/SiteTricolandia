@@ -34,7 +34,7 @@ Você pode visualizar o site de cadastro da loja Tricolandia online através do 
 
 ## Créditos
 
-* Eu - ([Lorena Oliveira](https://github.com/ITsL0RIS))
-* [Maria Julia Leal](https://github.com/majulleal))
+* Eu - [Lorena Oliveira](https://github.com/ITsL0RIS)
+* [Maria Julia Leal](https://github.com/majulleal)
 * Nathan Zavam
 
